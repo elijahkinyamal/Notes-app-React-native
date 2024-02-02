@@ -33,7 +33,7 @@ const Home = () => {
       
       data={notes}
       numColumns={2}
-      estimatedItemSize={100}
+      estimatedItemSize={110}
       renderItem={({item}) => (
         <View style = {styles.noteView}>
 
@@ -59,7 +59,7 @@ const Home = () => {
        onPress={ () => navigation.navigate('NotesAdd')}
        >
 
-        <Entypo name ='plus' size = {45} color='black'/>
+        <Entypo name ='plus' size = {47} color='black'/>
 
 
       </TouchableOpacity>
