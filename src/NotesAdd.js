@@ -68,9 +68,9 @@ const styles = StyleSheet.create({
   inputTitle :{
     fontSize : 18,
     fontWeight :'bold',
-    marginBottom : 10,
+    marginBottom : 12,
     marginTop: 20,
-    height : 50,
+    height : 51,
     width : '97%',
     borderBottomWidth:1/2,
     borderLeftWidth : 1/2,
