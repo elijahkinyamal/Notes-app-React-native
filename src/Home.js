@@ -32,8 +32,8 @@ const Home = () => {
       <FlashList
       
       data={notes}
-      numColumns={2}
-      estimatedItemSize={110}
+      numColumns={3}
+      estimatedItemSize={120}
       renderItem={({item}) => (
         <View style = {styles.noteView}>
 
