@@ -114,13 +114,13 @@ const styles = StyleSheet.create(
         inputTitle : {
             fontSize: 18,
             fontWeight : 'bold',
-            marginTop : 20,
+            marginTop : 21,
             marginBottom : 10,
             height : 50,
             width : '97%',
             borderWidth:1,
             borderRadius:5,
-            padding:10
+            padding:11
 
         },
         inputNote : {
